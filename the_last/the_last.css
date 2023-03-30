@@ -1,0 +1,88 @@
+body {
+    background-color: #000000;
+}
+
+.one {
+    background-color: white;
+    padding: 10px;
+    position: relative;
+}
+.one ul{
+    list-style: none;
+    position: absolute;
+    top: 32px;
+    right: 8px;
+}
+.one li {
+    display: inline-block;
+}
+.one li img {
+    width: 20px;
+    height: 20px;
+}
+.two {
+    background-color:darkslategrey;
+	height:60px;
+	width:auto;
+	border-radius: 35px;
+	padding:13px;
+	margin:2px;
+}
+.two p a {
+
+    color:wheat;
+}
+.there {
+
+    position: absolute;
+    height: 250px;
+    right: 0px;
+}
+.four {
+
+    width: 880px;
+    height:525px;
+    border-radius: 35px;
+    font-style:inherit;
+    font-size: 65px;
+    color:firebrick;
+
+}
+.five {
+    position: absolute;
+    width: 100px;
+    height:200px;
+    top: 1500px;
+    right: 1165px;
+    padding:13px;
+	margin:2px;
+
+
+
+}
+.six {
+    position:absolute;
+    width: 850px;
+    height:850px;
+    top: 1500px;
+    color:firebrick;
+    font-style:inherit;
+    font-size: 65px;
+
+}
+.seven {
+
+    position:absolute;
+    background-color: dimgray;
+    padding:70px;
+	margin:7px;
+    border-radius: 232px;
+    width: 900px;
+    height:884px;
+    top: 2500px;
+    right: 1380px;
+    color:lemonchiffon;
+    font-style:inherit;
+    font-size: 65px;
+
+}
